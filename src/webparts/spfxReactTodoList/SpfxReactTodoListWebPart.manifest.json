@@ -1,0 +1,19 @@
+{
+  "$schema": "../../../node_modules/@microsoft/sp-module-interfaces/lib/manifestSchemas/jsonSchemas/clientSideComponentManifestSchema.json",
+
+  "id": "7f3416c4-e268-4af2-87e2-a8fb0f3cda7d",
+  "componentType": "WebPart",
+  "version": "0.0.1",
+  "manifestVersion": 2,
+
+  "preconfiguredEntries": [{
+    "groupId": "7f3416c4-e268-4af2-87e2-a8fb0f3cda7d",
+    "group": { "default": "Under Development" },
+    "title": { "default": "SpfxReactTodoList" },
+    "description": { "default": "spfx-react-todo-list description" },
+    "officeFabricIconFontName": "Page",
+    "properties": {
+      "listName": "TODOs"
+    }
+  }]
+}

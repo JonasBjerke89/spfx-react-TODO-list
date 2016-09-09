@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "sp-fx-react-todo-list-client-side-solution",
+    "id": "71a189ab-4706-498e-8174-a47abba5c753",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "sp-fx-react-todo-list.spapp"
+  }
+}
